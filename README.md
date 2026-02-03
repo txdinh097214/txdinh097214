@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Trung Dinh 👋
 
-<!--
-**txdinh097214/txdinh097214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web development student who enjoys turning ideas into clean, simple websites and learning modern tools used in real projects.
 
-Here are some ideas to get you started:
+## 🎯 About me
+- 📚 Studying: Web Development / Front-End (student)
+- 🚀 Goal: Become a front-end developer and build helpful, user-friendly web apps
+- 💡 Interests: UI design, accessibility, responsive layouts, performance basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** VS Code, GitHub, GitHub Desktop
+- **Currently learning:** Git workflow + better CSS layout (Flexbox/Grid)
+
+## 🧩 Projects (starter)
+- **git215_setup** — first repo setup + GitHub workflow practice
+- **Fork/Clone Practice** — learning how forks, commits, and pushes work
+
+## 🌟 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+## 🔗 Links
+- LinkedIn: (add later)
+- Portfolio: (add later)
+
+## 🎨 Fun (random but harmless)
+- I like learning by building small projects
+- I’m interested in clean UI and simple designs
+- I enjoy exploring new tools and improving step-by-step
