@@ -27,3 +27,4 @@ I’m a web development student who enjoys turning ideas into clean, simple webs
 - I like learning by building small projects
 - I’m interested in clean UI and simple designs
 - I enjoy exploring new tools and improving step-by-step
+![401184438_312694331721421_5216397282497120644_n](https://github.com/user-attachments/assets/7393f861-32e1-405c-9e12-e10131bee95a)
